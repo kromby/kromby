@@ -1,4 +1,8 @@
-### Hi there 👋
+### Guðjón Karl
+
+Computer geek that enjoys programming pet projects every now and then, dabbling with new technology and making the house a bit smarter. Ended up leading software teams after having tried almost all roles related software development along the way including, software architect, enterprise architect, scrum master, product owner and project manager. Passionate about technology driven businesses that empower people and make a meaningful impact on the world around them.
+
+[LinkedIn](https://www.linkedin.com/in/gu%C3%B0j%C3%B3n-karl-arnarson/ "LinkedIn")
 
 <!--
 **kromby/kromby** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
